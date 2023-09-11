@@ -49,5 +49,26 @@
                 {"href":"","text":"api"}
             ]
         }
+    ],
+    "swiper" : [
+        {   
+            
+            "text" : "swiper의 첫번째 타이틀 h2",
+            "content" : "첫번째 내용 p",
+            "img" : "https://www.grovesoft.net/wp-content/uploads/2022/04/slide-home-main.png",
+            "a" : "http://www.naver.com"
+        },
+        {
+            "text" : "swiper의 두번째 타이틀",
+            "content" : "첫번째 내용",
+            "img" : "https://www.grovesoft.net/wp-content/uploads/2022/04/slide-home-main.png",
+            "a" : "http://www.naver.com"
+        },
+        {
+            "text" : "swiper의 세번째 타이틀",
+            "content" : "첫번째 내용",
+            "img" : "https://www.grovesoft.net/wp-content/uploads/2022/04/slide-home-main.png",
+            "a" : "http://www.naver.com"
+        }
     ]
 }
